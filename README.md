@@ -17,6 +17,6 @@ Your task is to determine the following:
 ## This assignment is solved in Python3
 
 ## to run this assignment
-python3 <total number days>
-eg. python3 main.py 5
-eg. python3 main.py 10
+-- python3 <total number days>
+1. python3 main.py 5
+2. python3 main.py 10
